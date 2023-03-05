@@ -91,12 +91,12 @@ public class LatihanP3 extends javax.swing.JFrame {
         buttonGroup1.add(jRadioButton1);
         jRadioButton1.setText("Laki-Laki");
         getContentPane().add(jRadioButton1);
-        jRadioButton1.setBounds(140, 230, 91, 20);
+        jRadioButton1.setBounds(140, 230, 91, 21);
 
         buttonGroup1.add(jRadioButton2);
         jRadioButton2.setText("Perempuan");
         getContentPane().add(jRadioButton2);
-        jRadioButton2.setBounds(350, 230, 84, 20);
+        jRadioButton2.setBounds(350, 230, 84, 21);
 
         jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         getContentPane().add(jComboBox2);
